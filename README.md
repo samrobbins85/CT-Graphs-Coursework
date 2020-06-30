@@ -30,7 +30,7 @@ Create a file `breadth_first.py` with a function `bfs(G,a,b)` such that when you
 
 ### Task 2
 
-Create a file `breadth_first_pair_nodes.py` with a function `dfs(G,a,b,u)` such that when you run this file:
+Create a file `depth_first_pair_nodes.py` with a function `dfs(G,a,b,u)` such that when you run this file:
 
 - It performs a Depth-First Search starting from a node `a` and ending when it reaches node `b`
 - At every step, among the neighbours of the currently visited vertex, the algorithm chooses the smallest one to continue the exploration from it
